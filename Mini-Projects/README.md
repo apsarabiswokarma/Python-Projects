@@ -13,8 +13,12 @@ print(".....")
 -import random -importing random module
 
 -random randrange
-_random ri 
-""" 
+_random ri
+
+
+
+
+
 
 elif user_input == "scissors" and computer_pick == "scissors":
 print("draw")
@@ -25,4 +29,8 @@ elif user_input == "rock" and computer_pick == "rock":
  elif user_input == "paper" and computer_pick == "paper":
         print("draw")"""
 ```
+
 \for line break
+
+To run this code of snakegame.py , you will need to have Pygame installed. You can install it by running the following command:
+pip install pygame
