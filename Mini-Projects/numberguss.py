@@ -1,3 +1,8 @@
+
+# Hint: To generate a number user random number and using a loop gives the user only three\
+# chances to guess and according to the user's guess print a satisfactory output.
+
+
 import random
 
 top_of_range = input("Type a number: ")
@@ -40,3 +45,7 @@ if guesses <= 1:
     print("You got it in", guesses, "guesses.")
 
 print("you got it in bruh", guesses, "guesses")
+
+
+# In this game, the task is to create a script that generates a random number
+# between a range if the user guesses the number right in three chance then user wins otherwise user loss.

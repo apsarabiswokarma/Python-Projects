@@ -1,3 +1,7 @@
+# Hint: Take the user choice and then compare it with the computer choice which is taken using the
+# random module from a list of choices, and if the user wins then increase the score by 1.
+
+
 import random
 # importing module named random
 user_wins = 0
@@ -37,3 +41,8 @@ while True:
 print("you won bruh", user_wins, "times.")
 print("computer won bruh", computer_wins, "times.")
 print("okay bruh bye!")
+
+
+# The Goal is to create a command-line game where a user is given a chance to choose
+#  between rock, paper, and scissors and if the user wins the score is added,
+#  and at the end when the user finishes the game the score is shown to the user.

@@ -34,3 +34,5 @@ elif user_input == "rock" and computer_pick == "rock":
 
 To run this code of snakegame.py , you will need to have Pygame installed. You can install it by running the following command:
 pip install pygame
+
+[link:](https://levelup.gitconnected.com/21-python-mini-projects-with-codes-c4126e4131e4)
